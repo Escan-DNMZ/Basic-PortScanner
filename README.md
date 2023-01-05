@@ -2,7 +2,7 @@
 You can port scanning and find server ip address with this tool
 # How Can I Use
 First open terminal and go to PS folder location with `cd PS` and write `python3 main.py`
-Note: If you are folder different path you need to go there
+Note: If you're folder different path you need to go there
 
 ![1](https://user-images.githubusercontent.com/84273839/210847838-13e2fb61-7dab-4912-a6a0-4cff917224c9.png)
 ![Screenshot from 2023-01-05 20-44-10](https://user-images.githubusercontent.com/84273839/210847863-453d78cc-8ac5-474a-927b-bb5472eb6751.png)
