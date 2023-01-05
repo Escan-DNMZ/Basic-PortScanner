@@ -1,5 +1,5 @@
 # Basic-PortScanner
-My first security tool do port scanning and find server ip address 
+You can port scanning and find server ip address with this tool
 # How Can I Use
 first open terminal and go to PS folder location with `cd PS` and write `python3 main.py`
 
